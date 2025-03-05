@@ -21,7 +21,7 @@
 title: DOGE is Expensive
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  DOGE is expensive, and while almost everyone agrees that the government can be more effective, the way DOGE is being run will cost more than it will save.
+  DOGE is expensive, and while almost everyone agrees that the government can be more effective, the way DOGE is being run will cost more than it will save.  Let's work together to find out more.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dogeisexpensive.com/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
